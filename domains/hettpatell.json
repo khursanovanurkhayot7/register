@@ -1,10 +1,9 @@
 {
-  "owner": {
-    "username": "patelhettt"
-  },
-  "records": {
-    "A": [
-      "216.24.57.1"
-    ]
-  }
+    "owner": {
+        "username": "khursanovanurkhayot7",
+        "email": "nurxayot.work@gmail.com"
+    },
+    "records": {
+        "CNAME": "khursanovanurkhayot7.github.io"
+    }
 }
